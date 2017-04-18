@@ -1,0 +1,4 @@
+#represents where mods are asked for and schematics are saved to
+base_url: http://localhost:3000
+server_id: 4
+server_secret: 336bd60a4dce943c16c78e4b2b79dc26

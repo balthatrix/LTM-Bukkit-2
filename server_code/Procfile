@@ -1,0 +1,3 @@
+sinatra: ./controller/controller.rb
+
+#minecraft: java -jar spigot.jar

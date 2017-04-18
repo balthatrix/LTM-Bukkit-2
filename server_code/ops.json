@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "c26f434c-ee6e-428d-856c-a998c098cc61",
+    "name": "thoughtstem",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1c12c6b1-335a-4054-8b92-b3e63a854a42",
+    "name": "ThoughtSTEM26",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "535fbf27-9fe5-4130-ba50-a377b927cbb6",
+    "name": "1d20",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d79a4f8c-f3dc-4216-8693-fec8dc2cbd28",
+    "name": "Linksbro",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

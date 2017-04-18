@@ -1,0 +1,73 @@
+# Citizens NPC Storage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+last-created-npc-id: 1
+npc:
+  '1':
+    metadata:
+      protected: true
+    name: Billy
+    uuid: ccc5ba07-65d3-45af-a741-9f60f0ff8ad0
+    traits:
+      location:
+        world: world
+        x: '-21.496248547180514'
+        y: '83.0'
+        z: '211.69648983046895'
+        yaw: '179.49453735351562'
+        pitch: '0.0'
+      spawned: true
+      type: Creeper
+    traitnames: type,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '0':
+    metadata:
+      protected: true
+    name: Billy
+    uuid: 88a95f14-9bae-4dc3-9999-125f512b11b4
+    traits:
+      location:
+        world: world
+        x: '-23.749496901870337'
+        y: '79.0'
+        z: '219.44488382141867'
+        yaw: '277.4272766113281'
+        pitch: '0.0'
+      spawned: true
+      type: Creeper
+    traitnames: type,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

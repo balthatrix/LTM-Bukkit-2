@@ -1,0 +1,939 @@
+Starting controller
+Starting controller
+World info: wn: balthatrix/wizard/55618, wo: wizard
+Going to download this!!!! balthatrix/wizard/55618
+Found keys [] when checking to see if balthatrix/wizard/55618 extists
+Looking at key wizard/level.dat
+Trying to save file ./world/level.dat
+Made sub dir ./world
+Looking at key wizard/level.dat_mcr
+Trying to save file ./world/level.dat_mcr
+Made sub dir ./world
+Looking at key wizard/level.dat_old
+Trying to save file ./world/level.dat_old
+Made sub dir ./world
+Looking at key wizard/region/r.-1.-1.mca
+Trying to save file ./world/region/r.-1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.-1.mcr
+Trying to save file ./world/region/r.-1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mca
+Trying to save file ./world/region/r.-1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mcr
+Trying to save file ./world/region/r.-1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mca
+Trying to save file ./world/region/r.0.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mcr
+Trying to save file ./world/region/r.0.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mca
+Trying to save file ./world/region/r.0.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mcr
+Trying to save file ./world/region/r.0.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mca
+Trying to save file ./world/region/r.1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mcr
+Trying to save file ./world/region/r.1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mca
+Trying to save file ./world/region/r.1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mcr
+Trying to save file ./world/region/r.1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/spc.settings
+Trying to save file ./world/spc.settings
+Made sub dir ./world
+Looking at key wizard/vanilla_rain_forest/35104/data/Monument.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Monument.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Stronghold.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Stronghold.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Temple.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Temple.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_end.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_end.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_nether.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_nether.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/level.dat
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/level.dat_old
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat_old
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Trying to save file ./world/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Made sub dir ./world/vanilla_rain_forest/35104/playerdata
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/session.lock
+Trying to save file ./world/vanilla_rain_forest/35104/session.lock
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Trying to save file ./world/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Made sub dir ./world/vanilla_rain_forest/35104/stats
+Looking at key wizard/vanilla_rain_forest/35104/uid.dat
+Trying to save file ./world/vanilla_rain_forest/35104/uid.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/waypoints.dat
+Trying to save file ./world/waypoints.dat
+Made sub dir ./world
+Looking at key wizard/waypoints.dat_old
+Trying to save file ./world/waypoints.dat_old
+Made sub dir ./world
+Files downloaded to dir
+Starting controller
+World info: wn: balthatrix/wizard/55618, wo: wizard
+Going to download this!!!! balthatrix/wizard/55618
+Found keys [] when checking to see if balthatrix/wizard/55618 extists
+Looking at key wizard/level.dat
+Trying to save file ./world/level.dat
+Made sub dir ./world
+Looking at key wizard/level.dat_mcr
+Trying to save file ./world/level.dat_mcr
+Made sub dir ./world
+Looking at key wizard/level.dat_old
+Trying to save file ./world/level.dat_old
+Made sub dir ./world
+Looking at key wizard/region/r.-1.-1.mca
+Trying to save file ./world/region/r.-1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.-1.mcr
+Trying to save file ./world/region/r.-1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mca
+Trying to save file ./world/region/r.-1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mcr
+Trying to save file ./world/region/r.-1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mca
+Trying to save file ./world/region/r.0.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mcr
+Trying to save file ./world/region/r.0.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mca
+Trying to save file ./world/region/r.0.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mcr
+Trying to save file ./world/region/r.0.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mca
+Trying to save file ./world/region/r.1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mcr
+Trying to save file ./world/region/r.1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mca
+Trying to save file ./world/region/r.1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mcr
+Trying to save file ./world/region/r.1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/spc.settings
+Trying to save file ./world/spc.settings
+Made sub dir ./world
+Looking at key wizard/vanilla_rain_forest/35104/data/Monument.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Monument.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Stronghold.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Stronghold.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Temple.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Temple.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_end.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_end.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_nether.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_nether.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/level.dat
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/level.dat_old
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat_old
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Trying to save file ./world/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Made sub dir ./world/vanilla_rain_forest/35104/playerdata
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/session.lock
+Trying to save file ./world/vanilla_rain_forest/35104/session.lock
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Trying to save file ./world/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Made sub dir ./world/vanilla_rain_forest/35104/stats
+Looking at key wizard/vanilla_rain_forest/35104/uid.dat
+Trying to save file ./world/vanilla_rain_forest/35104/uid.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/waypoints.dat
+Trying to save file ./world/waypoints.dat
+Made sub dir ./world
+Looking at key wizard/waypoints.dat_old
+Trying to save file ./world/waypoints.dat_old
+Made sub dir ./world
+Files downloaded to dir
+Starting controller
+World info: wn: balthatrix/wizard/55618, wo: wizard
+Going to download this!!!! balthatrix/wizard/55618
+Found keys [] when checking to see if balthatrix/wizard/55618 extists
+Looking at key wizard/level.dat
+Trying to save file ./world/level.dat
+Made sub dir ./world
+Looking at key wizard/level.dat_mcr
+Trying to save file ./world/level.dat_mcr
+Made sub dir ./world
+Looking at key wizard/level.dat_old
+Trying to save file ./world/level.dat_old
+Made sub dir ./world
+Looking at key wizard/region/r.-1.-1.mca
+Trying to save file ./world/region/r.-1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.-1.mcr
+Trying to save file ./world/region/r.-1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mca
+Trying to save file ./world/region/r.-1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mcr
+Trying to save file ./world/region/r.-1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mca
+Trying to save file ./world/region/r.0.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mcr
+Trying to save file ./world/region/r.0.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mca
+Trying to save file ./world/region/r.0.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mcr
+Trying to save file ./world/region/r.0.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mca
+Trying to save file ./world/region/r.1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mcr
+Trying to save file ./world/region/r.1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mca
+Trying to save file ./world/region/r.1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mcr
+Trying to save file ./world/region/r.1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/spc.settings
+Trying to save file ./world/spc.settings
+Made sub dir ./world
+Looking at key wizard/vanilla_rain_forest/35104/data/Monument.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Monument.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Stronghold.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Stronghold.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Temple.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Temple.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_end.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_end.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_nether.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_nether.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/level.dat
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/level.dat_old
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat_old
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Trying to save file ./world/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Made sub dir ./world/vanilla_rain_forest/35104/playerdata
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/session.lock
+Trying to save file ./world/vanilla_rain_forest/35104/session.lock
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Trying to save file ./world/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Made sub dir ./world/vanilla_rain_forest/35104/stats
+Looking at key wizard/vanilla_rain_forest/35104/uid.dat
+Trying to save file ./world/vanilla_rain_forest/35104/uid.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/waypoints.dat
+Trying to save file ./world/waypoints.dat
+Made sub dir ./world
+Looking at key wizard/waypoints.dat_old
+Trying to save file ./world/waypoints.dat_old
+Made sub dir ./world
+Files downloaded to dir
+Starting controller
+World info: wn: balthatrix/wizard/55618, wo: wizard
+Going to download this!!!! balthatrix/wizard/55618
+Found keys [] when checking to see if balthatrix/wizard/55618 extists
+Looking at key wizard/level.dat
+Trying to save file ./world/level.dat
+Made sub dir ./world
+Looking at key wizard/level.dat_mcr
+Trying to save file ./world/level.dat_mcr
+Made sub dir ./world
+Looking at key wizard/level.dat_old
+Trying to save file ./world/level.dat_old
+Made sub dir ./world
+Looking at key wizard/region/r.-1.-1.mca
+Trying to save file ./world/region/r.-1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.-1.mcr
+Trying to save file ./world/region/r.-1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mca
+Trying to save file ./world/region/r.-1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mcr
+Trying to save file ./world/region/r.-1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mca
+Trying to save file ./world/region/r.0.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mcr
+Trying to save file ./world/region/r.0.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mca
+Trying to save file ./world/region/r.0.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mcr
+Trying to save file ./world/region/r.0.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mca
+Trying to save file ./world/region/r.1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mcr
+Trying to save file ./world/region/r.1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mca
+Trying to save file ./world/region/r.1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mcr
+Trying to save file ./world/region/r.1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/spc.settings
+Trying to save file ./world/spc.settings
+Made sub dir ./world
+Looking at key wizard/vanilla_rain_forest/35104/data/Monument.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Monument.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Stronghold.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Stronghold.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Temple.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Temple.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_end.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_end.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_nether.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_nether.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/level.dat
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/level.dat_old
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat_old
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Trying to save file ./world/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Made sub dir ./world/vanilla_rain_forest/35104/playerdata
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/session.lock
+Trying to save file ./world/vanilla_rain_forest/35104/session.lock
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Trying to save file ./world/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Made sub dir ./world/vanilla_rain_forest/35104/stats
+Looking at key wizard/vanilla_rain_forest/35104/uid.dat
+Trying to save file ./world/vanilla_rain_forest/35104/uid.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/waypoints.dat
+Trying to save file ./world/waypoints.dat
+Made sub dir ./world
+Looking at key wizard/waypoints.dat_old
+Trying to save file ./world/waypoints.dat_old
+Made sub dir ./world
+Files downloaded to dir
+Starting controller
+World info: wn: balthatrix/wizard/55618, wo: wizard
+Going to download this!!!! balthatrix/wizard/55618
+Found keys [] when checking to see if balthatrix/wizard/55618 extists
+Looking at key wizard/level.dat
+Trying to save file ./world/level.dat
+Made sub dir ./world
+Looking at key wizard/level.dat_mcr
+Trying to save file ./world/level.dat_mcr
+Made sub dir ./world
+Looking at key wizard/level.dat_old
+Trying to save file ./world/level.dat_old
+Made sub dir ./world
+Looking at key wizard/region/r.-1.-1.mca
+Trying to save file ./world/region/r.-1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.-1.mcr
+Trying to save file ./world/region/r.-1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mca
+Trying to save file ./world/region/r.-1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mcr
+Trying to save file ./world/region/r.-1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mca
+Trying to save file ./world/region/r.0.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mcr
+Trying to save file ./world/region/r.0.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mca
+Trying to save file ./world/region/r.0.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mcr
+Trying to save file ./world/region/r.0.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mca
+Trying to save file ./world/region/r.1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mcr
+Trying to save file ./world/region/r.1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mca
+Trying to save file ./world/region/r.1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mcr
+Trying to save file ./world/region/r.1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/spc.settings
+Trying to save file ./world/spc.settings
+Made sub dir ./world
+Looking at key wizard/vanilla_rain_forest/35104/data/Monument.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Monument.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Stronghold.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Stronghold.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Temple.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Temple.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_end.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_end.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_nether.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_nether.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/level.dat
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/level.dat_old
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat_old
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Trying to save file ./world/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Made sub dir ./world/vanilla_rain_forest/35104/playerdata
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/session.lock
+Trying to save file ./world/vanilla_rain_forest/35104/session.lock
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Trying to save file ./world/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Made sub dir ./world/vanilla_rain_forest/35104/stats
+Looking at key wizard/vanilla_rain_forest/35104/uid.dat
+Trying to save file ./world/vanilla_rain_forest/35104/uid.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/waypoints.dat
+Trying to save file ./world/waypoints.dat
+Made sub dir ./world
+Looking at key wizard/waypoints.dat_old
+Trying to save file ./world/waypoints.dat_old
+Made sub dir ./world
+Files downloaded to dir
+Starting controller
+World info: wn: balthatrix/wizard/55618, wo: wizard
+Going to download this!!!! balthatrix/wizard/55618
+Found keys [] when checking to see if balthatrix/wizard/55618 extists
+Looking at key wizard/level.dat
+Trying to save file ./world/level.dat
+Made sub dir ./world
+Looking at key wizard/level.dat_mcr
+Trying to save file ./world/level.dat_mcr
+Made sub dir ./world
+Looking at key wizard/level.dat_old
+Trying to save file ./world/level.dat_old
+Made sub dir ./world
+Looking at key wizard/region/r.-1.-1.mca
+Trying to save file ./world/region/r.-1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.-1.mcr
+Trying to save file ./world/region/r.-1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mca
+Trying to save file ./world/region/r.-1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.-1.0.mcr
+Trying to save file ./world/region/r.-1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mca
+Trying to save file ./world/region/r.0.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.-1.mcr
+Trying to save file ./world/region/r.0.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mca
+Trying to save file ./world/region/r.0.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.0.0.mcr
+Trying to save file ./world/region/r.0.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mca
+Trying to save file ./world/region/r.1.-1.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.-1.mcr
+Trying to save file ./world/region/r.1.-1.mcr
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mca
+Trying to save file ./world/region/r.1.0.mca
+Made sub dir ./world/region
+Looking at key wizard/region/r.1.0.mcr
+Trying to save file ./world/region/r.1.0.mcr
+Made sub dir ./world/region
+Looking at key wizard/spc.settings
+Trying to save file ./world/spc.settings
+Made sub dir ./world
+Looking at key wizard/vanilla_rain_forest/35104/data/Monument.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Monument.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Stronghold.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Stronghold.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/Temple.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Temple.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_end.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_end.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/data/villages_nether.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_nether.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key wizard/vanilla_rain_forest/35104/level.dat
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/level.dat_old
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat_old
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Trying to save file ./world/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Made sub dir ./world/vanilla_rain_forest/35104/playerdata
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.-1.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/region/r.0.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key wizard/vanilla_rain_forest/35104/session.lock
+Trying to save file ./world/vanilla_rain_forest/35104/session.lock
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Trying to save file ./world/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Made sub dir ./world/vanilla_rain_forest/35104/stats
+Looking at key wizard/vanilla_rain_forest/35104/uid.dat
+Trying to save file ./world/vanilla_rain_forest/35104/uid.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key wizard/waypoints.dat
+Trying to save file ./world/waypoints.dat
+Made sub dir ./world
+Looking at key wizard/waypoints.dat_old
+Trying to save file ./world/waypoints.dat_old
+Made sub dir ./world
+Files downloaded to dir
+Starting controller
+World info: wn: balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168, wo: shackhorn/BluePenguin/UntitledUpload/58877/74714
+Going to download this!!!! balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168
+Found keys ["balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/MAP.png", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/Read me please!.pdf", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/Monument.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/Village.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/idcounts.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/map_0.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/scoreboard.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/villages.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/villages_end.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/villages_nether.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/level.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/level.dat_mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/level.dat_old", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/535fbf27-9fe5-4130-ba50-a377b927cbb6.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/6699aca2-515e-4727-9deb-d6fee36787f7.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/8bed33d3-d3da-4edb-a440-51f2819e27ee.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/a7969edf-a880-4b51-8609-0921438580e1.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/b453ae01-cc9a-4f36-9fc7-b7cfe8d94572.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/f05375c2-ab19-43bc-8093-6d9d57c17aa3.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.-1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.-1.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.-2.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.-2.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.0.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.0.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.-1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.-1.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.-2.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.-2.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.-3.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.0.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.0.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.-1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.-1.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.-2.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.-3.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.0.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.0.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.2.-1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.2.-2.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.2.-3.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.3.-1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.3.-2.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.3.-3.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.4.-1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.4.-2.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.4.-3.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.5.-1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.5.-2.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.5.-3.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/session.lock", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/spc.settings", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/535fbf27-9fe5-4130-ba50-a377b927cbb6.json", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/6699aca2-515e-4727-9deb-d6fee36787f7.json", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/8bed33d3-d3da-4edb-a440-51f2819e27ee.json", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/a7969edf-a880-4b51-8609-0921438580e1.json", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/b453ae01-cc9a-4f36-9fc7-b7cfe8d94572.json", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/f05375c2-ab19-43bc-8093-6d9d57c17aa3.json", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/uid.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/Monument.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/Stronghold.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/Temple.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/villages.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/villages_end.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/villages_nether.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/level.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/level.dat_old", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/region/r.-1.0.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/region/r.-1.1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/region/r.0.0.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/region/r.0.1.mca", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/session.lock", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/uid.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/waypoints.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/waypoints.dat_old", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world.zip", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/MAP.png", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/Read me please!.pdf", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/data/idcounts.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/data/map_0.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/level.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/level.dat_old", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.-1.-1.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.-1.-2.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.-1.0.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.0.-1.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.0.-2.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.0.0.mcr", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/session.lock", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/spc.settings", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/waypoints.dat", "balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/waypoints.dat_old"] when checking to see if balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168 extists
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/MAP.png
+Trying to save file ./world/MAP.png
+Made sub dir ./world
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/Read me please!.pdf
+Trying to save file ./world/Read me please!.pdf
+Made sub dir ./world
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/Monument.dat
+Trying to save file ./world/data/Monument.dat
+Made sub dir ./world/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/Village.dat
+Trying to save file ./world/data/Village.dat
+Made sub dir ./world/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/idcounts.dat
+Trying to save file ./world/data/idcounts.dat
+Made sub dir ./world/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/map_0.dat
+Trying to save file ./world/data/map_0.dat
+Made sub dir ./world/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/scoreboard.dat
+Trying to save file ./world/data/scoreboard.dat
+Made sub dir ./world/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/villages.dat
+Trying to save file ./world/data/villages.dat
+Made sub dir ./world/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/villages_end.dat
+Trying to save file ./world/data/villages_end.dat
+Made sub dir ./world/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/data/villages_nether.dat
+Trying to save file ./world/data/villages_nether.dat
+Made sub dir ./world/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/level.dat
+Trying to save file ./world/level.dat
+Made sub dir ./world
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/level.dat_mcr
+Trying to save file ./world/level.dat_mcr
+Made sub dir ./world
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/level.dat_old
+Trying to save file ./world/level.dat_old
+Made sub dir ./world
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/535fbf27-9fe5-4130-ba50-a377b927cbb6.dat
+Trying to save file ./world/playerdata/535fbf27-9fe5-4130-ba50-a377b927cbb6.dat
+Made sub dir ./world/playerdata
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/6699aca2-515e-4727-9deb-d6fee36787f7.dat
+Trying to save file ./world/playerdata/6699aca2-515e-4727-9deb-d6fee36787f7.dat
+Made sub dir ./world/playerdata
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/8bed33d3-d3da-4edb-a440-51f2819e27ee.dat
+Trying to save file ./world/playerdata/8bed33d3-d3da-4edb-a440-51f2819e27ee.dat
+Made sub dir ./world/playerdata
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/a7969edf-a880-4b51-8609-0921438580e1.dat
+Trying to save file ./world/playerdata/a7969edf-a880-4b51-8609-0921438580e1.dat
+Made sub dir ./world/playerdata
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/b453ae01-cc9a-4f36-9fc7-b7cfe8d94572.dat
+Trying to save file ./world/playerdata/b453ae01-cc9a-4f36-9fc7-b7cfe8d94572.dat
+Made sub dir ./world/playerdata
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/playerdata/f05375c2-ab19-43bc-8093-6d9d57c17aa3.dat
+Trying to save file ./world/playerdata/f05375c2-ab19-43bc-8093-6d9d57c17aa3.dat
+Made sub dir ./world/playerdata
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.-1.mca
+Trying to save file ./world/region/r.-1.-1.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.-1.mcr
+Trying to save file ./world/region/r.-1.-1.mcr
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.-2.mca
+Trying to save file ./world/region/r.-1.-2.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.-2.mcr
+Trying to save file ./world/region/r.-1.-2.mcr
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.0.mca
+Trying to save file ./world/region/r.-1.0.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.0.mcr
+Trying to save file ./world/region/r.-1.0.mcr
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.-1.1.mca
+Trying to save file ./world/region/r.-1.1.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.-1.mca
+Trying to save file ./world/region/r.0.-1.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.-1.mcr
+Trying to save file ./world/region/r.0.-1.mcr
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.-2.mca
+Trying to save file ./world/region/r.0.-2.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.-2.mcr
+Trying to save file ./world/region/r.0.-2.mcr
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.-3.mca
+Trying to save file ./world/region/r.0.-3.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.0.mca
+Trying to save file ./world/region/r.0.0.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.0.mcr
+Trying to save file ./world/region/r.0.0.mcr
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.0.1.mca
+Trying to save file ./world/region/r.0.1.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.-1.mca
+Trying to save file ./world/region/r.1.-1.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.-1.mcr
+Trying to save file ./world/region/r.1.-1.mcr
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.-2.mca
+Trying to save file ./world/region/r.1.-2.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.-3.mca
+Trying to save file ./world/region/r.1.-3.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.0.mca
+Trying to save file ./world/region/r.1.0.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.0.mcr
+Trying to save file ./world/region/r.1.0.mcr
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.1.1.mca
+Trying to save file ./world/region/r.1.1.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.2.-1.mca
+Trying to save file ./world/region/r.2.-1.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.2.-2.mca
+Trying to save file ./world/region/r.2.-2.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.2.-3.mca
+Trying to save file ./world/region/r.2.-3.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.3.-1.mca
+Trying to save file ./world/region/r.3.-1.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.3.-2.mca
+Trying to save file ./world/region/r.3.-2.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.3.-3.mca
+Trying to save file ./world/region/r.3.-3.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.4.-1.mca
+Trying to save file ./world/region/r.4.-1.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.4.-2.mca
+Trying to save file ./world/region/r.4.-2.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.4.-3.mca
+Trying to save file ./world/region/r.4.-3.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.5.-1.mca
+Trying to save file ./world/region/r.5.-1.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.5.-2.mca
+Trying to save file ./world/region/r.5.-2.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/region/r.5.-3.mca
+Trying to save file ./world/region/r.5.-3.mca
+Made sub dir ./world/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/session.lock
+Trying to save file ./world/session.lock
+Made sub dir ./world
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/spc.settings
+Trying to save file ./world/spc.settings
+Made sub dir ./world
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/535fbf27-9fe5-4130-ba50-a377b927cbb6.json
+Trying to save file ./world/stats/535fbf27-9fe5-4130-ba50-a377b927cbb6.json
+Made sub dir ./world/stats
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/6699aca2-515e-4727-9deb-d6fee36787f7.json
+Trying to save file ./world/stats/6699aca2-515e-4727-9deb-d6fee36787f7.json
+Made sub dir ./world/stats
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/8bed33d3-d3da-4edb-a440-51f2819e27ee.json
+Trying to save file ./world/stats/8bed33d3-d3da-4edb-a440-51f2819e27ee.json
+Made sub dir ./world/stats
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/a7969edf-a880-4b51-8609-0921438580e1.json
+Trying to save file ./world/stats/a7969edf-a880-4b51-8609-0921438580e1.json
+Made sub dir ./world/stats
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/b453ae01-cc9a-4f36-9fc7-b7cfe8d94572.json
+Trying to save file ./world/stats/b453ae01-cc9a-4f36-9fc7-b7cfe8d94572.json
+Made sub dir ./world/stats
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/stats/f05375c2-ab19-43bc-8093-6d9d57c17aa3.json
+Trying to save file ./world/stats/f05375c2-ab19-43bc-8093-6d9d57c17aa3.json
+Made sub dir ./world/stats
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/uid.dat
+Trying to save file ./world/uid.dat
+Made sub dir ./world
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/Monument.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Monument.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/Stronghold.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Stronghold.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/Temple.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/Temple.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/villages.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/villages_end.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_end.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/data/villages_nether.dat
+Trying to save file ./world/vanilla_rain_forest/35104/data/villages_nether.dat
+Made sub dir ./world/vanilla_rain_forest/35104/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/level.dat
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/level.dat_old
+Trying to save file ./world/vanilla_rain_forest/35104/level.dat_old
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Trying to save file ./world/vanilla_rain_forest/35104/playerdata/c26f434c-ee6e-428d-856c-a998c098cc61.dat
+Made sub dir ./world/vanilla_rain_forest/35104/playerdata
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/region/r.-1.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/region/r.-1.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.-1.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/region/r.0.0.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.0.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/region/r.0.1.mca
+Trying to save file ./world/vanilla_rain_forest/35104/region/r.0.1.mca
+Made sub dir ./world/vanilla_rain_forest/35104/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/session.lock
+Trying to save file ./world/vanilla_rain_forest/35104/session.lock
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Trying to save file ./world/vanilla_rain_forest/35104/stats/c26f434c-ee6e-428d-856c-a998c098cc61.json
+Made sub dir ./world/vanilla_rain_forest/35104/stats
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/vanilla_rain_forest/35104/uid.dat
+Trying to save file ./world/vanilla_rain_forest/35104/uid.dat
+Made sub dir ./world/vanilla_rain_forest/35104
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/waypoints.dat
+Trying to save file ./world/waypoints.dat
+Made sub dir ./world
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/waypoints.dat_old
+Trying to save file ./world/waypoints.dat_old
+Made sub dir ./world
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world.zip
+Trying to save file ./world/world.zip
+Made sub dir ./world
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/MAP.png
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/MAP.png
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/Read me please!.pdf
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/Read me please!.pdf
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/data/idcounts.dat
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/data/idcounts.dat
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/data/map_0.dat
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/data/map_0.dat
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update/data
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/level.dat
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/level.dat
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/level.dat_old
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/level.dat_old
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.-1.-1.mcr
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/region/r.-1.-1.mcr
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.-1.-2.mcr
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/region/r.-1.-2.mcr
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.-1.0.mcr
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/region/r.-1.0.mcr
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.0.-1.mcr
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/region/r.0.-1.mcr
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.0.-2.mcr
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/region/r.0.-2.mcr
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/region/r.0.0.mcr
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/region/r.0.0.mcr
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update/region
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/session.lock
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/session.lock
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/spc.settings
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/spc.settings
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/waypoints.dat
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/waypoints.dat
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update
+Looking at key balthatrix/shackhorn/BluePenguin/UntitledUpload/58877/74714/75168/world_unzip/Woosh Games February 2012 Update/waypoints.dat_old
+Trying to save file ./world/world_unzip/Woosh Games February 2012 Update/waypoints.dat_old
+Made sub dir ./world/world_unzip/Woosh Games February 2012 Update
+Files downloaded to dir
